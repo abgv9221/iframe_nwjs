@@ -1,0 +1,11 @@
+{
+	"name": "example",
+	"description": "using external html file with nodejs functions",
+	"main": "index.html",
+	"dependencies": {
+
+		},
+	"window": {
+
+	}
+}
